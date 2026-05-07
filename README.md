@@ -52,9 +52,11 @@ s in total sales
 
 ## 🖼️ Screenshots
 <img width="883" height="494" alt="image" src="https://github.com/user-attachments/assets/870b374e-1700-464e-95e8-cb0dd65db070" />
+
 <img width="888" height="511" alt="image" src="https://github.com/user-attachments/assets/cbd566ea-d005-4f01-9b14-cf19ba0005d4" />
-<img width="891" height="589" alt="image" src="https://github.com/user-
-  attachments/assets/49e24b2a-c327-4496-942f-83c9438b55a8" />
+
+<img width="891" height="589" alt="image" src="https://github.com/user-attachments/assets/32771d2f-840e-44c5-aca2-3d1b027f1020" />
+
   <img width="885" height="590" alt="image" src="https://github.com/user-attachments/assets/261d989b-4adb-4a53-9e08-188e375bb21a" />
 
 
